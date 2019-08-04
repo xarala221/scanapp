@@ -1,0 +1,7 @@
+C:\Python26\Lib\site-packages\PyQt4\bin;C:\Users\Fatoush\Desktop\mes setups\gns3\IOS ROUTER\Lib\site-packages\PyQt4\bin;C:\Program Files (x86)\Lib\site-packages\PyQt4\bin;C:\Program Files (x86)\Lib\site-packages\PyQt4\bin;C:\Program Files (x86)\Lib\site-packages\PyQt4\bin;C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Users\Fatoush\AppData\Local\Android\sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_25\bin;C:\wamp\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Nmap
+
+
+
+
+
+C:\Users\Fatoush\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Fatoush\AppData\Local\Programs\Python\Python37-32\
