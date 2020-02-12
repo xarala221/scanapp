@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.10
 openvas-lib==1.1.4
 pkg-resources==0.0.0
 python-nmap==0.6.1
